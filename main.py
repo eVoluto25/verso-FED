@@ -33,7 +33,6 @@ class RisposteFED(BaseModel):
     stile_alimentare: str
     integrazione: str
     difficolta_pasti: str
-    giorni_allenamento: str
 
     model_config = ConfigDict(from_attributes=True)
 
