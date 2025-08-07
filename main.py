@@ -54,7 +54,6 @@ class RisposteFED(BaseModel):
             "stile_alimentare": ['A', 'B', 'C', 'D'],
             "integrazione": ['A', 'B', 'C', 'D', 'E', 'F'],
             "difficolta_pasti": ['A', 'B', 'C', 'D', 'E'],
-            "giorni_allenamento": ['A', 'B', 'C', 'D'],
         }
         field_name = info.field_name
         if v not in validi[field_name]:
