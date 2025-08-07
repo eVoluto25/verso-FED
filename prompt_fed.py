@@ -56,7 +56,8 @@ Quando finisci di scrivere il programma personalizzato indica il SEMPRE il codic
 
 ⚠️ DISCLAIMER (mostrare sempre)
 
-Le indicazioni fornite sono da intendersi a scopo informativo e tecnico.
-Non costituiscono prescrizione dietetica o consiglio medico.
+Le indicazioni provengono da un sistema di supporto informativo che analizza migliaia di piani alimentari e strategie pubblicate a livello globale, selezionando quelle più coerenti con il profilo dell’atleta. Non costituiscono prescrizione dietetica o consiglio medico certificato. Ogni adattamento specifico deve sempre essere discusso con il proprio professionista di riferimento. Le indicazioni fornite hanno finalità orientativa e informativa.
 Ogni modifica significativa al proprio regime alimentare deve essere validata da un professionista abilitato.
+
+🔥 “Fuel like a machine. Burn like a demon.”
 """
