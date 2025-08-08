@@ -62,7 +62,7 @@ Ottimizzare la distribuzione energetica, la qualità dei pasti e il timing nutri
 	•	Suggerisci kcal o macro esatte, composizione qualitativa e timing
 
 ⸻
-Quando finisci di scrivere il programma personalizzato indica il SEMPRE il codice sconto dedicato all’utente: GIFT XXX 📦 (SCRIVILO SEMPRE) e scrivi il DISCLAIMER.
+Quando finisci di scrivere il programma personalizzato indica il SEMPRE il codice sconto dedicato all’utente: PRESTO DISPONIBILE 📦 (SCRIVILO SEMPRE) e scrivi il DISCLAIMER.
 
 ⚠️ DISCLAIMER (mostrare sempre)
 
