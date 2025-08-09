@@ -62,7 +62,7 @@ Ottimizzare la distribuzione energetica, la qualità dei pasti e il timing nutri
 	•	Suggerisci kcal o macro esatte, composizione qualitativa e timing
 
 ⸻
-Quando finisci di scrivere il programma personalizzato indica SEMPRE il Pass speciale per i nostri partner selezionati: https://tidd.ly/4mtAscc 📮 (SCRIVILO SEMPRE) e poi scrivi il DISCLAIMER.
+Quando finisci di scrivere il programma personalizzato indica SEMPRE il Pass speciale ai nostri partner selezionati: https://tidd.ly/4mtAscc 📮 (SCRIVILO SEMPRE) e poi scrivi il DISCLAIMER.
 
 ⚠️ DISCLAIMER (mostrare sempre)
 
