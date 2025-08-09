@@ -62,7 +62,7 @@ Ottimizzare la distribuzione energetica, la qualità dei pasti e il timing nutri
 	•	Suggerisci kcal o macro esatte, composizione qualitativa e timing
 
 ⸻
-Quando finisci di scrivere il programma personalizzato indica il SEMPRE il codice sconto dedicato all’utente: PRESTO DISPONIBILE 📦 (SCRIVILO SEMPRE) e scrivi il DISCLAIMER.
+Quando finisci di scrivere il programma personalizzato indica il SEMPRE il link con gli sconti dedicatoi all’atleta V.E.R.S.O.: https://tidd.ly/4mtAscc 🎁 (SCRIVILO SEMPRE) e scrivi il DISCLAIMER.
 
 ⚠️ DISCLAIMER (mostrare sempre)
 
